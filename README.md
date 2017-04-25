@@ -1,6 +1,6 @@
 # npmdoc-angular-ui-bootstrap
 
-#### api documentation for  [angular-ui-bootstrap (v2.5.0)](http://angular-ui.github.io/bootstrap/)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-ui-bootstrap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-ui-bootstrap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-ui-bootstrap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-ui-bootstrap)
+#### basic api documentation for  [angular-ui-bootstrap (v2.5.0)](http://angular-ui.github.io/bootstrap/)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-ui-bootstrap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-ui-bootstrap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-ui-bootstrap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-ui-bootstrap)
 
 #### Native AngularJS (Angular) directives for Bootstrap
 
@@ -98,7 +98,8 @@
         "demo": "grunt after-test && static dist -a 0.0.0.0 -H '{\"Cache-Control\": \"no-cache, must-revalidate\"}'",
         "test": "grunt"
     },
-    "version": "2.5.0"
+    "version": "2.5.0",
+    "bin": {}
 }
 ```
 
